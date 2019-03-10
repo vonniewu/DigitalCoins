@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e4d4e22-5f29-4011-908d-498ed31a69de" name="Default Changelist" comment="" />
+    <list default="true" id="8e4d4e22-5f29-4011-908d-498ed31a69de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.expo/packager-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/.expo/packager-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.3.4.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.3.4.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@expo/vector-icons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@expo/vector-icons/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/native-base/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/native-base/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/completion.sh.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/apply-extends.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/argsert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/assign.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/command.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/completion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/levenshtein.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/obj-filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/usage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/lib/yerror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/be.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/hi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/id.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/nb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/pirate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/pt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/pt_BR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/th.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/zh_CN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/locales/zh_TW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-native-vector-icons/node_modules/yargs/yargs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,11 +64,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+            <state relative-caret-position="90">
+              <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
                 <element signature="e#410#459#0" expanded="true" />
@@ -27,11 +77,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/HomeScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="301">
+              <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -40,10 +99,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/WatchlistScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -54,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/SettingsScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="45">
+              <caret line="3" column="55" lean-forward="true" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -69,6 +137,8 @@
     <findStrings>
       <find>Icon</find>
       <find>tabs</find>
+      <find>Button</find>
+      <find>Text</find>
       <find>onTabPress</find>
     </findStrings>
   </component>
@@ -80,11 +150,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/components/HomeScreen.js" />
         <option value="$PROJECT_DIR$/HomeScreen.js" />
-        <option value="$PROJECT_DIR$/components/HomeScreen.js" />
         <option value="$PROJECT_DIR$/components/WatchlistScreen.js" />
         <option value="$PROJECT_DIR$/components/Settings.js" />
         <option value="$PROJECT_DIR$/components/SettingsScreen.js" />
         <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/credentials.js" />
+        <option value="$PROJECT_DIR$/utils.js" />
+        <option value="$PROJECT_DIR$/components/HomeScreen.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -106,11 +179,6 @@
             <path>
               <item name="DigitalCoins" type="b2602c69:ProjectViewProjectNode" />
               <item name="DigitalCoins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DigitalCoins" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DigitalCoins" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,18 +215,18 @@
       <option name="presentableId" value="Default" />
       <updated>1552177220629</updated>
       <workItem from="1552177224806" duration="1002000" />
-      <workItem from="1552178659783" duration="6548000" />
+      <workItem from="1552178659783" duration="20645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7550000" />
+    <option name="totallyTimeSpent" value="21647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="28" width="960" height="1052" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558164" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2230523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -202,30 +270,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/WatchlistScreen.js">
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credentials.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/HomeScreen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="301">
+          <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/WatchlistScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/SettingsScreen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="45">
+          <caret line="3" column="55" lean-forward="true" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -234,12 +332,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+        <state relative-caret-position="90">
+          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
             <element signature="e#410#459#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>

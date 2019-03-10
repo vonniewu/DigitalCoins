@@ -24,9 +24,6 @@ import SettingsScreen from "./components/SettingsScreen";
 //
 // export default createAppContainer(AppNavigator);
 
-
-
-
 export default class App extends React.Component {
 
     tabs = [
